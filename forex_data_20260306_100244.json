@@ -1,0 +1,13 @@
+{
+  "USDJPY": [
+    {
+      "pair_key": "USDJPY",
+      "date": "2026-03-06",
+      "open_price": 157.57,
+      "high_price": 157.59,
+      "low_price": 157.39,
+      "close_price": 157.54,
+      "change_pct": -0.019
+    }
+  ]
+}
